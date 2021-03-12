@@ -9,9 +9,10 @@
 
  `https://github.com/umutcankilic/kodluyoruzilkrepo.git`
 
- ····# code block
- ····print '3 backticks or'
- ····print 'indent 4 spaces'
+ 
+ ```
+ adsdsadas
+ ```
 
  ![Image](https://picsum.photos/200/300)
 
