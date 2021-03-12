@@ -12,3 +12,10 @@
 
 
  ![Image](https://picsum.photos/200/300)
+
+
+
+
+##License
+
+[MIT](https://www.patika.dev/)
